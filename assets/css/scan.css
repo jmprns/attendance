@@ -1,0 +1,114 @@
+body{
+	background-color: #2f4050; 
+	background-image: url("../img/wup_logo_2.png"); 
+	background-size: 350px;
+}
+.black-bg{
+	background-color: black;
+	height: 50px;
+	padding-top: 8px;
+}
+.blue-bg{
+	background-color: #1c84c6;
+	height: 460px;
+}
+.green-bg{
+	background-color: #1ab394;
+	height: 460px;
+}
+.pink-bg{
+	padding: 0;
+	background-color: #ed5565;
+	height: 70px;
+}
+.row-1-1{
+	color: white;
+	font-size: 23px;
+	font-family: Arial;
+	text-align: center;
+}
+.row-1-2{
+	color: yellow;
+	font-size: 23px;
+	font-family: Arial;
+	text-align: center;
+}
+.row-2-1-1{
+	height: 380px;
+	background: #1ab394;
+}
+.row-2-1-1-picture-container{
+	border: 1px white solid;
+	height: 300px;
+	width: 300px;
+	overflow: hidden;
+}
+.row-2-1-2{
+	height: 80px;
+	background: #1ab394;
+}
+.row-2-1-2 .scanRFID{
+	outline: none;
+	background: transparent;
+	border: 0;
+	text-align: center;
+	font-family: Arial;
+	font-weight: bold;
+	font-size: 35px;
+	width: 100%;
+	margin-top: -15px;
+}
+.scanCore{
+	outline: none;
+	background: transparent;
+	border: 0;
+	text-align: center;
+	font-family: Arial;
+	font-weight: bold;
+	font-size: 12px;
+	width: 100%;
+}
+.btnScanCore{
+	background: transparent;
+	border: 0;
+}
+.row-2-2{
+	height: 92px;
+}
+.row-2-2-header{
+	color: white;
+	text-align: center;
+	font-size: 16px;
+}
+.row-2-2-input{
+	padding-bottom: 1px;
+	color: white;
+	font-family: Arial;
+	font-weight: bold;
+	font-size: 35px;
+	text-align: center;
+	width: 85%;
+	height: 50px;
+	background: transparent;
+	outline: none;
+	border: 0;
+	border-bottom: 3px white solid;
+}
+
+.marquee{
+	font-size: 55px;
+	color: white;
+}
+
+.blank-text{
+	color: transparent;
+}
+
+.welcome-banner{
+	color: white;
+	font-size: 36px;
+}
+
+.welcome-banner-small{
+	font-size: 20px;
+}
