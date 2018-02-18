@@ -66,7 +66,7 @@ $systemInfoIns = $infoSystemRow['installed_date'];
 $systemInfoAdm = $infoSystemRow['admin'];
 $systemInfoLog = $infoSystemRow['last_logged'];
 $systemInfoNum = $infoSystemRow['number'];
-$systemInfoSms = $infoSystemRow['sms_mode'];
+$smsMode = $infoSystemRow['sms_mode'];
 
 
 /**
